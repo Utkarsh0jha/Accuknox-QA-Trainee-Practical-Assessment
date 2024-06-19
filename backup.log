@@ -1,0 +1,4 @@
+2024-06-19 13:11:28,501 - INFO - Starting backup process
+2024-06-19 13:11:28,562 - INFO - Created backup archive: backup_20240619_131128.tar.gz
+2024-06-19 13:11:28,579 - ERROR - Failed to transfer backup_20240619_131128.tar.gz to remote.server.com:/path/to/remote/directory - [Errno 11001] getaddrinfo failed
+2024-06-19 13:11:28,579 - ERROR - Backup process failed
